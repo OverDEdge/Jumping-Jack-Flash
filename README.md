@@ -8,15 +8,24 @@ Goal is to get as high as possible where points are awarded when platforms despa
 
 ## Game Mechanics
 **Movement**
+
 Move left and right using the ARROW keys. Left and Riht Screen-wrap is implemented.
 Jump using SPACE or UP key. Double jump is possible and holding jump key will cause jump to be higher.
+
 **Death**
+
 Death occurs if character falls down below bottom of the screen or if collide with enemy
+
 **Score**
+
 Platforms and enemies spawn at random heights. The higher up you go the more enemies are spawned.
+
 **Collisions**
+
 Game character will collide with platforms (not going through).
+
 **Highscore**
+
 A Highscore will be saved and displayed at Game Over and Start Screen. Hihscore can be reset by deleting contents of 'highscore.txt' file.
 
 ## How to start the game
