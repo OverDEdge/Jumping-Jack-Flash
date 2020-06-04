@@ -20,7 +20,8 @@ Game character will collide with platforms (not going through).
 A Highscore will be saved and displayed at Game Over and Start Screen. Hihscore can be reset by deleting contents of 'highscore.txt' file.
 
 ## How to start the game
-Download a copy of the repository into a folder. Navigate and enter folder. In Command Prompt type: **python -m Jumping_Jack_Flash**
+Download a copy of the repository into a folder. Navigate and enter folder. In Command Prompt type: 
+- **python -m Jumping_Jack_Flash**
 This will start the game.
 Game will launch in Fullscreen mode and 'ESC' can be used to exit.
 
