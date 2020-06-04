@@ -22,8 +22,8 @@ A Highscore will be saved and displayed at Game Over and Start Screen. Hihscore 
 ## How to start the game
 Download a copy of the repository into a folder. Navigate and enter folder. In Command Prompt type: 
 - **python -m Jumping_Jack_Flash**
-This will start the game.
-Game will launch in Fullscreen mode and 'ESC' can be used to exit.
+
+This will start the game and game will launch in Fullscreen mode and 'ESC' can be used to exit.
 
 ## Art
 Art has been taken from OpenGameArt.org and contributions are mentioned in the 'main.py' file.
