@@ -9,7 +9,7 @@ Goal is to get as high as possible where points are awarded when platforms despa
 ## Game Mechanics
 **Movement**
 
-Move left and right using the ARROW keys. Left and Riht Screen-wrap is implemented.
+Move left and right using the ARROW keys. Left and Right Screen-wrap is implemented.
 Jump using SPACE or UP key. Double jump is possible and holding jump key will cause jump to be higher.
 
 **Death**
